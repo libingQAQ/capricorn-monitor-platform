@@ -1,2 +1,2 @@
-# Capricorn-Monitor-Platform-Admin
+# Capricorn-Monitor-Platform
 # test
