@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/capricorn-monitor-platform-log.iml" filepath="$PROJECT_DIR$/capricorn-monitor-platform-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capricorn-monitor-platform-log-api/capricorn-monitor-platform-log-api.iml" filepath="$PROJECT_DIR$/capricorn-monitor-platform-log-api/capricorn-monitor-platform-log-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capricorn-monitor-platform-log-common/capricorn-monitor-platform-log-common.iml" filepath="$PROJECT_DIR$/capricorn-monitor-platform-log-common/capricorn-monitor-platform-log-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capricorn-monitor-platform-log-service/capricorn-monitor-platform-log-service.iml" filepath="$PROJECT_DIR$/capricorn-monitor-platform-log-service/capricorn-monitor-platform-log-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capricorn-monitor-platform-log-web/capricorn-monitor-platform-log-web.iml" filepath="$PROJECT_DIR$/capricorn-monitor-platform-log-web/capricorn-monitor-platform-log-web.iml" />
+    </modules>
+  </component>
+</project>

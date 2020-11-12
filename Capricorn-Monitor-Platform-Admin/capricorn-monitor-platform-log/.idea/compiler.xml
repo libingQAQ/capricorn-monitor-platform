@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="capricorn-monitor-platform-log-common" />
+        <module name="capricorn-monitor-platform-log-web" />
+        <module name="capricorn-monitor-platform-log-service" />
+        <module name="capricorn-monitor-platform-log-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="capricorn-monitor-platform-log" target="1.5" />
+      <module name="capricorn-monitor-platform-log-api" target="1.5" />
+      <module name="capricorn-monitor-platform-log-common" target="1.5" />
+      <module name="capricorn-monitor-platform-log-service" target="1.5" />
+      <module name="capricorn-monitor-platform-log-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
